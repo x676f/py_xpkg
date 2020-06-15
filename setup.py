@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="xpkg",
-    version="0.1.0",
+    version="0.1.1",
     author="x676f@github",
     author_email="66930525+x676f@users.noreply.github.com",
     description="Packages.",
